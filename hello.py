@@ -1,5 +1,6 @@
 // For command line tutorial
-// Local repository modification
+// First : GitHub modification
+// Second : Local repository modification
 
 print ("Hello World")
 print ("Tell Your World")
